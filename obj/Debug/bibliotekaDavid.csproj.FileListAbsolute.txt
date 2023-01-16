@@ -1,0 +1,13 @@
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\bin\Debug\bibliotekaDavid.exe.config
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\bin\Debug\bibliotekaDavid.exe
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\bin\Debug\bibliotekaDavid.pdb
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.Form1.resources
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.Properties.Resources.resources
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.exe
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.pdb
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.Form2.resources
+C:\Users\ucenik\source\repos\bibliotekaDavid\bibliotekaDavid\obj\Debug\bibliotekaDavid.Form3.resources
